@@ -75,10 +75,11 @@ This is a common early lesson:
 
 ## Screenshots
 
-1. Complete topology with all links green  
+1. Devices placed but not yet fully connected  
 2. Topology showing mixed link status (red/orange)  
-3. Devices placed but not yet fully connected  
-4. Router0 Config tab – GigabitEthernet0/0 example
+3. Router0 Config tab – GigabitEthernet0/0 example  
+4. Topology with links coming up  
+5. Complete topology with all links green
 
 ---
 
@@ -107,13 +108,14 @@ This is a common early lesson:
 
 ## Image Links
 
-![01-topology-complete.png](images/01-topology-complete.png)
+![01-devices-placed.png](images/01-devices-placed.png)
 
 ![02-topology-link-status.png](images/02-topology-link-status.png)
 
-![03-devices-placed.png](images/03-devices-placed.png)
+![03-router0-config.png](images/03-router0-config.png)
 
-![04-router0-config.png](images/04-router0-config.png)
+![04-topology-partial-green.png](images/04-topology-partial-green.png)
+
+![05-topology-complete.png](images/05-topology-complete.png)
 
 ---
-
