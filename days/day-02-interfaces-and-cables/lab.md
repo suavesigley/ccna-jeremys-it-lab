@@ -93,7 +93,7 @@ This is the main lesson of the lab when Auto MDI-X is assumed to be disabled.
 
 ![02-partial-connections.png](images/02-partial-connections.png)
 
-![03-topology-mixed-status.png](images/03-topology-mixed-status.png)
+![03-topology-complete.png](images/03-topology-complete.png)
 
 ![04-r2-config-and-topology.png](images/04-r2-config-and-topology.png)
 
