@@ -89,11 +89,3 @@ Different protocols use different numbers of OSI layers depending on their purpo
 
 ---
 
-## Screenshot Renaming Table
-
-| New Filename                  | Original Filename |
-|-------------------------------|-------------------|
-| `01-stp-pdu-details.png`      | `jitl0301.png`    |
-| `02-topology-simulation.png`  | `jitl0302.png`    |
-| `03-pc1-release-renew.png`    | `jitl0303.png`    |
-| `04-dhcp-pdu-details.png`     | `jitl0304.png`    |
