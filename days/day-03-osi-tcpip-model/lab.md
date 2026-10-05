@@ -1,5 +1,3 @@
-**File path:** `days/day-03-osi-tcpip-model/lab.md`
-
 # Day 3 Lab – OSI Model / TCP/IP Model
 
 **Lab Source:** Jeremy’s IT Lab – Day 3 Lab (OSI Model)  
